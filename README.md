@@ -18,11 +18,11 @@ We can see how the whole page has a container structures called tags where you c
 
 For example we have the body, and inside the body the center tag, inside a table tag, inside that table we can see "tbody", inside there two kind of classes (spacer and athing) needless to explain what them do. Every 'athing' has other internal structures like the index number, up-pointing triangle, and title that we can clearly see at the page.
 
-Talking about the title, at the moment we only have seen where it should be, but if we continue opening "containers" we can see text like this: //<a href="https://www.nytimes.com/interactive/2019/03/13/world/boeing-737-crash-investigation.html" class="storylink">Why Investigators Fear the Two Boeing 737s Crashed for Similar Reasons</a>"//
+Talking about the title, at the moment we only have seen where it should be, but if we continue opening "containers" we can see text like this: <a href="https://www.nytimes.com/interactive/2019/03/13/world/boeing-737-crash-investigation.html" class="storylink">Why Investigators Fear the Two Boeing 737s Crashed for Similar Reasons</a>"
 This is the instruction to what show in the title class predefined space, and where to be redirected if we click. how this text should look like  (color, behaviour, size, font, etc) its also written in this element tab window.
 
 
-Just to add, we can see how the code gramatic to open and close something is "<something> elements </something>".
+Just to add, we can see how the code gramatic to open and close something is <></>
 
 Little experiment: i changed the tab colour from <td bgcolor="#ff6600"> to <td bgcolor="#00ffd0"> (from orange to cyan), to experience how this code affects the page design.
 
