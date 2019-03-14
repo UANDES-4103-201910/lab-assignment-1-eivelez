@@ -24,7 +24,7 @@ This is the instruction to what show in the title class predefined space, and wh
 
 Just to add, we can see how the code gramatic to open and close something is <></>
 
-Little experiment: i changed the tab colour from <td bgcolor="#ff6600"> to <td bgcolor="#00ffd0"> (from orange to cyan), to experience how this code affects the page design.
+Little experiment: i changed the tab colour from td bgcolor="#ff6600" to td bgcolor="#00ffd0"  (orange to cyan), to experience how this code affects the page design.
 
 
 Step 4, Analyze the sources tab:
